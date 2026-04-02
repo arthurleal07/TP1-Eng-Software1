@@ -154,17 +154,16 @@ Além disso, a integração entre foco e revisão precisa ser cuidadosamente bal
 
 O escopo geral descreve, de forma ampla, as **funcionalidades e objetivos principais** do sistema.
 
-**Exemplo:**
-> O projeto visa desenvolver um sistema web para gestão de eventos acadêmicos, permitindo o cadastro de eventos, inscrição de participantes, submissão de trabalhos e emissão de certificados digitais.
+> O projeto visa desenvolver uma plataforma mobile multiplataforma (Android e iOS) que integra um sistema de Timer Pomodoro personalizável com um mecanismo de flashcards baseado em repetição espaçada, permitindo que o usuário gerencie seus ciclos de foco e revisão de conteúdo em um único ambiente. A solução conta com organização por disciplinas e temas, dashboard de desempenho com métricas de evolução, notificações inteligentes para consistência de estudos e sincronização em nuvem para acesso multiplataforma — transformando o estudo em um processo contínuo, mensurável e adaptativo.
 
 #### 2.1.1 Escopo Específico
 
 Detalha as **funcionalidades e requisitos** que serão implementados.
 
-**Exemplo:**
-- Cadastro e gerenciamento de eventos
-- Inscrição de participantes e controle de presença
-- Submissão e avaliação de trabalhos científicos
+- Timer pomodoro configurável
+- Contador de sessões
+- Estatísticas de progresso do usuário
+- Limite de 20 flashcards (versão gratuita)
 
 #### 2.1.2 Escopo Negativo
 
@@ -172,8 +171,8 @@ Define **o que NÃO será desenvolvido**, evitando expectativas erradas.
 
 **Exemplo:**
 - Não haverá integração com redes sociais para login
-- O sistema não incluirá um aplicativo móvel, apenas uma versão web responsiva
-- Não serão implementadas funcionalidades avançadas de inteligência artificial para análise de dados
+- O sistema não incluirá uma versão web
+- Não será implementada uma IA para a versão gratuita
 
 ---
 
@@ -196,9 +195,11 @@ Tecnologias e ferramentas que serão utilizadas no desenvolvimento do projeto.
 O que torna o projeto **diferente de soluções já existentes**.
 
 **Exemplo:**
-- 🤖 **Automação na emissão de certificados:** O sistema gera certificados digitais automaticamente, eliminando processos manuais.
-- 📱 **Interface intuitiva e responsiva:** O design prioriza usabilidade, permitindo acesso fácil via celular e computador.
-- 🔗 **Plataforma unificada:** Diferente de soluções existentes, que exigem múltiplas ferramentas, este sistema reúne todas as funções em um só ambiente.
+- 🔗 **Integração nativa:** O aplicativo vem com a junção de duas funções como uso do timer pomodoro e flashcards no mesmo app.
+- 📚 **Organização simplificada para estudante:** Foco em algo que aluno realmente precisa: Matéria → Tópico → Flashcards
+- 📊 **Métricas simples:** Mostrar dados para o aluno como: Quantos Pomodoros por matéria
+Quantos flashcards revisados
+Taxa de acerto básica (%)
 
 ---
 
@@ -207,10 +208,10 @@ O que torna o projeto **diferente de soluções já existentes**.
 Principais resultados esperados após a conclusão do projeto.
 
 **Exemplo:**
-- ✅ Um sistema funcional para gestão de eventos acadêmicos, permitindo a organização de conferências e simpósios
-- ✅ Redução do tempo gasto pelos organizadores na emissão de certificados e controle de inscrições
-- ✅ Interface intuitiva que melhora a experiência dos usuários ao se inscreverem e enviarem trabalhos
-- ✅ Relatórios de participação detalhados, facilitando a análise do evento
+- ✅ Um app que ajude na performance nos estudos 
+- ✅ x
+- ✅ Interface intuitiva para o usuário
+- ✅ Estatísticas positivas sobre o progresso do usuário
 
 ---
 
@@ -239,11 +240,11 @@ A equipe será composta por **até 5 alunos**, com papéis definidos para otimiz
 
 | Integrante | Papel / Responsabilidades |
 |-----------|--------------------------|
-| Fulano | Desenvolvimento do MVP |
-| — | — |
-| — | — |
-| — | — |
-| — | — |
+| Ian Gabriel | Ideação do projeto |
+| Caio Gonzaga | Levantamento de requisitos |
+| Renan Schultz | Pojeto e Arquitetura |
+| Francisco José | Projeto dos Casos de Teste |
+| Arthur | Desenvolvimento do MVP |
 
 ---
 
@@ -253,7 +254,17 @@ A equipe será composta por **até 5 alunos**, com papéis definidos para otimiz
 
 #### 4.1.1 Equipamentos e Programa de Computador
 
-> `XXXXXXXXXXXXXXXXXX` *(preencher conforme o projeto)*
+| Item                          | Descrição                                                                 | Tipo            | Custo Estimado (R$) | Observação                                      |
+|-------------------------------|---------------------------------------------------------------------------|-----------------|---------------------|-------------------------------------------------|
+| Notebook/Computador           | Equipamento para desenvolvimento do aplicativo                           | Equipamento     | 3.000 – 5.000       | Pode ser já possuído pelo desenvolvedor         |
+| Smartphone para testes        | Dispositivo Android para testes do app                                   | Equipamento     | 800 – 2.000         | Pode ser o próprio celular do desenvolvedor     |
+| Flutter                       | SDK para desenvolvimento mobile multiplataforma                          | Software        | Gratuito            | Open source                                     |
+| Visual Studio Code            | Editor de código                                                         | Software        | Gratuito            | Leve e amplamente utilizado                     |
+| Android Studio                | IDE oficial para desenvolvimento Android (emulador incluso)              | Software        | Gratuito            | Necessário para testes e build                  |
+| Firebase                      | Backend (autenticação, banco de dados, hospedagem)                       | Serviço         | Gratuito (plano inicial) | Pode gerar custos conforme uso               |
+| GitHub                        | Controle de versão e repositório                                         | Serviço         | Gratuito            | Essencial para organização do projeto           |
+| Conta Google Play Developer   | Publicação do app na Play Store                                          | Serviço         | ~125 (taxa única)   | Pago apenas uma vez                             |
+| Internet                      | Conexão para desenvolvimento e testes                                    | Serviço         | 120 – 200/mês        | Considerar custo mensal                         |
 
 ---
 

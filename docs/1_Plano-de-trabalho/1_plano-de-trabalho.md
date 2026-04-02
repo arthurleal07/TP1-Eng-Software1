@@ -96,7 +96,59 @@ Define em que **contexto ou regulamento** o projeto se encaixa (finalidade, lice
 
 ## 2. Informações Gerais
 
-> Esta seção define o que o projeto pretende desenvolver, suas limitações, tecnologias utilizadas e a inovação que ele traz.
+> O que o projeto pretende desenvolver
+
+Pretendemos entregar uma plataforma que vá além de um simples cronômetro ou um app de cartões. O sistema inclui:
+
+Timer Pomodoro personalizável (tempo de foco, pausas curtas e longas)
+Sistema de flashcards com algoritmo de repetição espaçada
+Dashboard de desempenho (tempo estudado, taxa de acerto, evolução)
+Organização por disciplinas e temas
+Notificações inteligentes para manter consistência de estudo
+Sincronização em nuvem para acesso multiplataforma
+
+A ideia central é transformar estudo em um processo contínuo, mensurável e adaptativo.
+
+Inovação do Projeto
+
+O diferencial não está apenas nas funcionalidades isoladas, mas na integração entre elas.
+
+Hoje, aplicativos de Pomodoro (como Focus To-Do) e plataformas de flashcards (como Anki) funcionam de forma separada.
+
+Nosso projeto une esses dois fluxos em uma única experiência contínua:
+
+O momento de pausa deixa de ser passivo e passa a ser produtivo
+O conteúdo revisado é automaticamente baseado no desempenho do usuário
+O ciclo de estudo se torna mais eficiente sem aumentar a carga cognitiva
+
+Além disso, pretendemos incorporar no futuro:
+
+IA para geração automática de flashcards a partir de textos
+Análise preditiva de desempenho
+Sugestões de estudo personalizadas
+
+Tecnologias Utilizadas
+
+O desenvolvimento será estruturado com tecnologias modernas e escaláveis:
+
+Frontend Mobile: Flutter (multiplataforma – Android e iOS)
+Backend: Node.js com API REST
+Banco de Dados: Firebase (tempo real e autenticação)
+Armazenamento e sincronização: Cloud integrada
+Futuro (IA): APIs de processamento de linguagem natural
+
+Essa stack permite rápida prototipação, escalabilidade e baixo custo inicial de infraestrutura.
+
+Limitações do Projeto
+
+Como qualquer solução em fase inicial, temos algumas limitações:
+
+Dependência de engajamento do usuário (disciplina ainda é um fator externo)
+Algoritmos de repetição espaçada podem exigir ajustes com base no uso real
+Competição com apps já consolidados no mercado
+Necessidade de validação contínua da experiência do usuário (UX)
+
+Além disso, a integração entre foco e revisão precisa ser cuidadosamente balanceada para não gerar sobrecarga cognitiva.
 
 ### 2.1 Escopo Geral
 

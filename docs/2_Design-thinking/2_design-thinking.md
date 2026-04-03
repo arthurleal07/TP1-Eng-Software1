@@ -4,6 +4,4 @@
 
 **O Golden Circle é uma técnica desenvolvida por Simon Sinek que ajuda a alinhar propósito e proposta de valor.**
 
-
-<img src="![goldencircle](https://github.com/user-attachments/assets/f5e6a457-dca7-44d1-9387-c7a06c0aa50c)
-" width="500">
+<img src="https://github.com/user-attachments/assets/5f51ad0c-d5ef-48f5-ade6-8a38816cb55c" width="300">

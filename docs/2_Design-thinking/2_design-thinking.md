@@ -42,3 +42,8 @@ Será desenvolvido um aplicativo mobile voltado para estudantes, que oferece:
 - Acompanhamento básico de desempenho  
 
 A solução final será uma ferramenta prática, acessível e focada em melhorar a rotina de estudos, ajudando o usuário a estudar com mais consistência e eficiência.
+
+## 2. Exploração do Mercado
+
+**A) Análise SWOT**
+

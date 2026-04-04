@@ -47,3 +47,6 @@ A solução final será uma ferramenta prática, acessível e focada em melhorar
 
 **A) Análise SWOT**
 
+<img width="960" height="768" alt="ANÁLISE" src="https://github.com/user-attachments/assets/4f5040a3-09b6-4f11-a0f3-ceed64304d21" />
+
+

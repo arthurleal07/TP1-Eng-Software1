@@ -270,26 +270,29 @@ A equipe será composta por **até 5 alunos**, com papéis definidos para otimiz
 
 #### 4.1.2 Materiais de Consumo
 
-| # | Descrição | Qtd. | Valor Unit. (R$) | Valor Total (R$) |
-|---|-----------|:----:|:----------------:|:----------------:|
-| 1 | Roteador | 1 | 250,00 | 250,00 |
-| 2 | Materiais de escritório | 1 | 200,00 | 200,00 |
-| 3 | Materiais elétricos (fontes) | 10 | 30,00 | 300,00 |
-| 4 | Chip ESP-12 – ESP8266 | 10 | 30,00 | 600,00 |
-| 5 | Bateria lítio | 10 | 70,00 | 700,00 |
-| 6 | Led infravermelho | 100 | 1,00 | 100,00 |
-| 7 | Placas fenolite dupla face | 10 | 20,00 | 200,00 |
-| 8 | Solda | 1 | 50,00 | 50,00 |
-| 9 | Filamento ABS / Esp8266 Chip ESP-12 | 3 | 140,00 | 420,00 |
-| 10 | Resistores 2 ohms e 3 ohms | 40 | 1,00 | 40,00 |
-| 11 | Redutor de tensão | 50 | 2,00 | 100,00 |
-| | | | **Total** | **R$ 2.660,00** |
+| # | Especificação | Custo (R$) |
+|---|--------------|:----------:|
+| 1  | Firebase (plano inicial)      | 6 | 0,00     | 0,00     |
+| 2  | Hospedagem/Backend (opcional) | 6 | 50,00    | 300,00   |
+| 3  | Ferramentas de design (Figma) | 1 | 0,00     | 0,00     |
+| 4  | Energia elétrica (estimativa) | 6 | 80,00    | 480,00   |
+| 5  | Domínio (opcional)            | 1 | 50,00    | 50,00    |
+| 6  | Armazenamento em nuvem        | 6 | 20,00    | 120,00   |
+
 
 ---
 
 #### 4.1.3 Treinamento
 
-> Treinamentos não serão necessários ao projeto, pois já estão inclusos nas licenças dos softwares descritos no item 4.1.1.
+| # | Especificação | Custo (R$) |
+|---|--------------|:----------:|
+| 1  | Curso de Flutter (online)         | 3 | 100,00 | 300,00 |
+| 2  | Curso de Git e GitHub            | 3 | 50,00  | 150,00 |
+| 3  | Curso de UI/UX Design (Figma)    | 2 | 80,00  | 160,00 |
+| 4  | Curso de Firebase                | 3 | 70,00  | 210,00 |
+| 5  | Plataforma de cursos (mensal)    | 3 | 40,00  | 120,00 |
+| 6  | Workshops/palestras (online)     | 2 | 50,00  | 100,00 |
+| 7  | Materiais de estudo (ebooks)     | 3 | 30,00  | 90,00  |
 
 ---
 
@@ -297,18 +300,14 @@ A equipe será composta por **até 5 alunos**, com papéis definidos para otimiz
 
 | # | Especificação | Custo (R$) |
 |---|--------------|:----------:|
-| 1 | Serviço técnico especializado de design de aplicativos | 4.000,00 |
-| 2 | Servidor de hospedagem para o site de divulgação | 510,00 |
-| 3 | Alteração contratual de endereço da empresa para CIDE | 475,00 |
-| 4 | Serviço de impressão de moldes plásticos e montagem das placas nos moldes | 1.500,00 |
-| 5 | Marketing: logo, banners, panfletos, camisas | 1.500,00 |
-| 6 | Serviço de criação de embalagem da iZBox | 2.000,00 |
-| 7 | Serviço técnico especializado em teste de usabilidade | 2.000,00 |
-| 8 | Assessoria em Marketing Digital | 2.500,00 |
-| 9 | Assessoria em Marketing Digital | 2.500,00 |
-| 10 | Assessoria em Marketing Digital | 2.500,00 |
-| 11 | Assessoria em Marketing Digital | 2.500,00 |
-| | **Total** | **R$ 21.975,00** |
+| 1  | Consultoria em UI/UX Design        | 1 | 300,00 | 300,00 |
+| 2  | Revisão técnica do código          | 1 | 400,00 | 400,00 |
+| 3  | Criação de identidade visual      | 1 | 250,00 | 250,00 |
+| 4  | Testes de usabilidade (feedback)  | 1 | 200,00 | 200,00 |
+| 5  | Configuração de publicação (loja) | 1 | 150,00 | 150,00 |
+| 6  | Hospedagem/Backend (configuração) | 1 | 200,00 | 200,00 |
+|    |                                   |   | **Total** | **R$ 1.500,00** |
+
 
 ---
 
@@ -320,23 +319,13 @@ A equipe será composta por **até 5 alunos**, com papéis definidos para otimiz
 
 </div>
 
-| Item | Valor Total (R$) | % |
-|------|:----------------:|:---:|
-| Programas de Computador, Máquinas, Equipamentos, Aparelhos e Instrumentos | 0,00 | 0,00% |
-| Implantação, Ampliação ou Modernização de Laboratório | 0,00 | 0,00% |
-| Recursos Humanos Diretos | 36.258,39 | 36,26% |
-| Recursos Humanos Indiretos | 0,00 | 0,00% |
-| Livros e Periódicos Técnicos | 0,00 | 0,00% |
-| Materiais de Consumo | 2.660,00 | 2,66% |
-| Viagens | 8.750,00 | 8,75% |
-| Treinamento | 0,00 | 0,00% |
-| Serviço Técnico de Terceiros | 21.975,00 | 21,98% |
-| Outros Correlatos | 6.750,00 | 14,95% |
-| Provisão de Encerramento | 0,00 | 0,00% |
-| Custos Incorridos e Constituição de Reserva | 0,00 | 0,00% |
-| Margem 10% | 7.639,34 | 9,09% |
-| Impostos Retidos em NF (19%) | 15.966,22 | 15,97% |
-| **TOTAL** | **R$ 99.998,95** | **100%** |
+| Categoria                          | Valor (R$)   |
+|------------------------------------|--------------|
+| Equipamentos e Programas           | 950,00       |
+| Treinamento da Equipe              | 1.130,00     |
+| Serviços Técnicos de Terceiros     | 1.500,00     |
+|                                    |              |
+| **Total Geral do Projeto**         | **R$ 3.580,00** |
 
 ---
 

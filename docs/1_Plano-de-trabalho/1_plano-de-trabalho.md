@@ -12,7 +12,7 @@
 | **Codinome** | Não Possui |
 | **Versão** | Alpha 1.0 |
 | **Status** | Em desenvolvimento |
-| **Número de Controle SRBR-M** | Código de rastreamento interno para identificação do projeto |
+| **Número de Controle SRBR-M** | SRBR-M-001 |
 | **Executor Principal** | Renan Schultz |
 | **Coordenador do Projeto** | Andrey Rodrigues |
 
@@ -24,7 +24,7 @@
 
 | Versão | Descrição | Autor | Data |
 |--------|-----------|-------|------|
-| `1.0` | Elaboração do Plano de Trabalho | XXXXXX | XXXXXXX |
+| `1.0` | Elaboração do Plano de Trabalho | Equipe do Projeto | 2025 |
 
 ---
 
@@ -56,7 +56,7 @@
 
 > O sistema Foca & Revisa consiste em um aplicativo digital voltado ao apoio de estudantes no processo de organização, concentração e revisão de conteúdos acadêmicos. A solução foi concebida com foco em melhorar a produtividade e a retenção de conhecimento por meio de técnicas estruturadas de estudo.
 
-### 1.1 Objetivo
+### 1.1 Objeto
 
 > O principal objetivo do sistema é auxiliar usuários no gerenciamento do tempo de estudo, promovendo sessões focadas e revisões periódicas, contribuindo para um aprendizado mais eficiente e contínuo.
 
@@ -64,10 +64,9 @@
 
 ### 1.2 Motivação, Justificativa e Oportunidade
 
-Explica o **motivo pelo qual o projeto é relevante**, destacando problemas que ele resolve e as oportunidades de aplicação.
-
-**Exemplo:**
-> A fase do pré-vestibular é a etapa mais importante da vida do estudante, nesta etapa o estudante visa como estudar de forma coerente, inteligente, entender a matéria para aprender-la, para um estudo efetivo o estudante visa procurar técnicas que molhoram o seu aprendizado e uma delas é o pomodoro e a revisão de conteúdo. Este aplicativo visa ajudar no foco do estudante nos seus estudos utilizando a técnica do pomodoro junto com a revisão com flashcards, para que o usuário tenha um aumento na performance e produtivo dos seus estudos. 
+> O projeto surge a partir da necessidade identificada durante o TP3, onde foram analisados perfis de usuários que apresentaram dificuldades em manter foco nos estudos, organizar conteúdos e revisar matérias de forma eficiente.  
+> Muitos estudantes enfrentam problemas como procrastinação, baixa retenção de conteúdo e falta de consistência nos estudos. Além disso, ferramentas existentes tratam técnicas de estudo de forma separada, como aplicativos de Pomodoro e plataformas de flashcards.  
+> Dessa forma, o projeto se justifica ao propor uma solução integrada que une essas abordagens em uma única plataforma, oferecendo uma experiência mais eficiente, contínua e adaptativa.
 
 ---
 
@@ -77,20 +76,15 @@ Aqui são definidos atributos que classificam o projeto em diferentes categorias
 
 #### 1.3.1 Classe
 
-Indica a **categoria geral do projeto**, especificando suas características principais.
-
 | Classe | Detalhamento |
 |--------|-------------|
 | **Aplicativo Móvel** | Um app de revisão com flashcard e integração da técnica pomodoro |
 
 #### 1.3.2 Enquadrabilidade
 
-Define em que **contexto ou regulamento** o projeto se encaixa (finalidade, licenciamento, conformidade com normas).
-
 | Enquadrabilidade | Detalhamento |
 |-----------------|-------------|
-| **Software Educacional** | O sistema será utilizado por universidades para gestão de eventos acadêmicos |
-
+| **Software Educacional** | Sistema voltado ao apoio de estudantes no processo de aprendizagem |
 
 ---
 
@@ -100,150 +94,86 @@ Define em que **contexto ou regulamento** o projeto se encaixa (finalidade, lice
 
 Pretendemos entregar uma plataforma que vá além de um simples cronômetro ou um app de cartões. O sistema inclui:
 
-Timer Pomodoro personalizável (tempo de foco, pausas curtas e longas)
-Sistema de flashcards com algoritmo de repetição espaçada
-Dashboard de desempenho (tempo estudado, taxa de acerto, evolução)
-Organização por disciplinas e temas
-Notificações inteligentes para manter consistência de estudo
-Sincronização em nuvem para acesso multiplataforma
+Timer Pomodoro personalizável (tempo de foco, pausas curtas e longas)  
+Sistema de flashcards com repetição espaçada  
+Dashboard de desempenho (tempo estudado, evolução)  
+Organização por disciplinas e temas  
+Notificações inteligentes  
+Sincronização em nuvem  
 
-A ideia central é transformar estudo em um processo contínuo, mensurável e adaptativo.
+A ideia central é transformar o estudo em um processo contínuo, mensurável e adaptativo.
 
-Inovação do Projeto
-
-O diferencial não está apenas nas funcionalidades isoladas, mas na integração entre elas.
-
-Hoje, aplicativos de Pomodoro (como Focus To-Do) e plataformas de flashcards (como Anki) funcionam de forma separada.
-
-Nosso projeto une esses dois fluxos em uma única experiência contínua:
-
-O momento de pausa deixa de ser passivo e passa a ser produtivo
-O conteúdo revisado é automaticamente baseado no desempenho do usuário
-O ciclo de estudo se torna mais eficiente sem aumentar a carga cognitiva
-
-Além disso, pretendemos incorporar no futuro:
-
-IA para geração automática de flashcards a partir de textos
-Análise preditiva de desempenho
-Sugestões de estudo personalizadas
-
-Tecnologias Utilizadas
-
-O desenvolvimento será estruturado com tecnologias modernas e escaláveis:
-
-Frontend Mobile: Flutter (multiplataforma – Android e iOS)
-Backend: Node.js com API REST
-Banco de Dados: Firebase (tempo real e autenticação)
-Armazenamento e sincronização: Cloud integrada
-Futuro (IA): APIs de processamento de linguagem natural
-
-Essa stack permite rápida prototipação, escalabilidade e baixo custo inicial de infraestrutura.
-
-Limitações do Projeto
-
-Como qualquer solução em fase inicial, temos algumas limitações:
-
-Dependência de engajamento do usuário (disciplina ainda é um fator externo)
-Algoritmos de repetição espaçada podem exigir ajustes com base no uso real
-Competição com apps já consolidados no mercado
-Necessidade de validação contínua da experiência do usuário (UX)
-
-Além disso, a integração entre foco e revisão precisa ser cuidadosamente balanceada para não gerar sobrecarga cognitiva.
+---
 
 ### 2.1 Escopo Geral
 
-O escopo geral descreve, de forma ampla, as **funcionalidades e objetivos principais** do sistema.
-
-> O projeto visa desenvolver uma plataforma mobile multiplataforma (Android e iOS) que integra um sistema de Timer Pomodoro personalizável com um mecanismo de flashcards baseado em repetição espaçada, permitindo que o usuário gerencie seus ciclos de foco e revisão de conteúdo em um único ambiente. A solução conta com organização por disciplinas e temas, dashboard de desempenho com métricas de evolução, notificações inteligentes para consistência de estudos e sincronização em nuvem para acesso multiplataforma — transformando o estudo em um processo contínuo, mensurável e adaptativo.
+> O projeto visa desenvolver uma plataforma mobile multiplataforma (Android e iOS) que integra um sistema de Timer Pomodoro com flashcards, permitindo o gerenciamento completo dos ciclos de estudo.
 
 #### 2.1.1 Escopo Específico
 
-Detalha as **funcionalidades e requisitos** que serão implementados.
-
-- Timer pomodoro configurável
-- Contador de sessões
-- Estatísticas de progresso do usuário
-- Limite de 20 flashcards (versão gratuita)
+- Timer pomodoro configurável  
+- Contador de sessões  
+- Estatísticas de progresso do usuário  
+- Limite de 20 flashcards (versão gratuita)  
 
 #### 2.1.2 Escopo Negativo
 
-Define **o que NÃO será desenvolvido**, evitando expectativas erradas.
-
-**Exemplo:**
-- Não haverá integração com redes sociais para login
-- O sistema não incluirá uma versão web
-- Não será implementada uma IA para a versão gratuita
+- Não haverá versão web  
+- Não haverá integração com redes sociais  
+- Não será implementada IA na versão inicial  
 
 ---
 
 ### 2.2 Ambiente de Desenvolvimento
 
-Tecnologias e ferramentas que serão utilizadas no desenvolvimento do projeto.
-
 | Componente | Tecnologia / Ferramenta |
 |------------|------------------------|
 | **Metodologia** | Scrum com sprints |
-| **Gerenciamento de Backlog** | GitHub |
+| **Gerenciamento de Backlog** | GitHub Projects |
 | **Repositório de Código** | GitHub |
-| **Modelagem de Software** | Draw.io (diagrama de classes, fluxo de telas) |
-| **Desenvolvimento do MVP** | `xxxxx` |
+| **Modelagem de Software** | Draw.io |
+| **Protótipos e Design** | Figma |
+| **Desenvolvimento do MVP** | Flutter |
+| **Backend** | Node.js |
+| **Banco de Dados** | Firebase |
 
 ---
 
 ### 2.3 Características Inovadoras do Projeto
 
-O que torna o projeto **diferente de soluções já existentes**.
-
-**Exemplo:**
-- 🔗 **Integração nativa:** O aplicativo vem com a junção de duas funções como uso do timer pomodoro e flashcards no mesmo app.
-- 📚 **Organização simplificada para estudante:** Foco em algo que aluno realmente precisa: Matéria → Tópico → Flashcards
-- 📊 **Métricas simples:** Mostrar dados para o aluno como: Quantos Pomodoros por matéria
-Quantos flashcards revisados
-Taxa de acerto básica (%)
+- 🔗 Integração entre Pomodoro e flashcards  
+- 👤 Baseado em personas e jornada do usuário  
+- 📊 Métricas de desempenho simples  
+- 🔄 Revisão com repetição espaçada  
+- ⏱️ Uso produtivo das pausas  
 
 ---
 
 ### 2.4 Resultados Esperados
 
-Principais resultados esperados após a conclusão do projeto.
-
-**Exemplo:**
-- ✅ Um app que ajude na performance nos estudos 
-- ✅ x
-- ✅ Interface intuitiva para o usuário
-- ✅ Estatísticas positivas sobre o progresso do usuário
+- ✅ Aplicativo funcional para estudos  
+- ✅ Melhoria no foco e produtividade  
+- ✅ Aumento na retenção de conteúdo  
+- ✅ Interface intuitiva  
+- ✅ Validação baseada no TP3  
 
 ---
 
 ## 3. Metodologia de Projeto
 
-> Esta seção descreve como o projeto será conduzido, desde a concepção até a entrega do MVP (Produto Mínimo Viável).
+> Esta seção descreve como o projeto será conduzido até a entrega do MVP.
 
 ### 3.1 Estrutura do Projeto
-
-O desenvolvimento será dividido em **cinco fases principais**, seguindo a abordagem ágil com Scrum.
-
-```
-📦 Projeto
- ┣ 📌 Fase 1 — Ideação
- ┣ 📌 Fase 2 — Levantamento de Requisitos
- ┣ 📌 Fase 3 — Projeto e Arquitetura
- ┣ 📌 Fase 4 — Projeto dos Casos de Teste
- ┗ 📌 Fase 5 — Desenvolvimento do MVP
-```
-
 ---
 
 ### 3.2 Equipe de Projeto: Papéis e Responsabilidades
-
-A equipe será composta por **até 5 alunos**, com papéis definidos para otimizar o desenvolvimento.
 
 | Integrante | Papel / Responsabilidades |
 |-----------|--------------------------|
 | Ian Gabriel | Ideação do projeto |
 | Caio Gonzaga | Levantamento de requisitos |
-| Renan Schultz | Pojeto e Arquitetura |
-| Francisco José | Projeto dos Casos de Teste |
+| Renan Schultz | Projeto e Arquitetura |
+| Francisco José | Testes |
 | Arthur | Desenvolvimento do MVP |
 
 ---
@@ -254,60 +184,53 @@ A equipe será composta por **até 5 alunos**, com papéis definidos para otimiz
 
 #### 4.1.1 Equipamentos e Programa de Computador
 
-| Item                          | Descrição                                                                 | Tipo            | Custo Estimado (R$) | Observação                                      |
-|-------------------------------|---------------------------------------------------------------------------|-----------------|---------------------|-------------------------------------------------|
-| Notebook/Computador           | Equipamento para desenvolvimento do aplicativo                           | Equipamento     | 3.000 – 5.000       | Pode ser já possuído pelo desenvolvedor         |
-| Smartphone para testes        | Dispositivo Android para testes do app                                   | Equipamento     | 800 – 2.000         | Pode ser o próprio celular do desenvolvedor     |
-| Flutter                       | SDK para desenvolvimento mobile multiplataforma                          | Software        | Gratuito            | Open source                                     |
-| Visual Studio Code            | Editor de código                                                         | Software        | Gratuito            | Leve e amplamente utilizado                     |
-| Android Studio                | IDE oficial para desenvolvimento Android (emulador incluso)              | Software        | Gratuito            | Necessário para testes e build                  |
-| Firebase                      | Backend (autenticação, banco de dados, hospedagem)                       | Serviço         | Gratuito (plano inicial) | Pode gerar custos conforme uso               |
-| GitHub                        | Controle de versão e repositório                                         | Serviço         | Gratuito            | Essencial para organização do projeto           |
-| Conta Google Play Developer   | Publicação do app na Play Store                                          | Serviço         | ~125 (taxa única)   | Pago apenas uma vez                             |
-| Internet                      | Conexão para desenvolvimento e testes                                    | Serviço         | 120 – 200/mês        | Considerar custo mensal                         |
+| Item | Descrição | Tipo | Custo Estimado (R$) | Observação |
+|------|----------|------|---------------------|-----------|
+| Computador/Notebook | Desenvolvimento do sistema | Equipamento | 3.000 – 5.000 | Pode já ser do desenvolvedor |
+| Smartphone Android | Testes do aplicativo | Equipamento | 800 – 2.000 | Pode ser próprio |
+| Flutter | Desenvolvimento mobile | Software | Gratuito | Open source |
+| Visual Studio Code | Editor de código | Software | Gratuito | Leve e eficiente |
+| Android Studio | IDE para testes e build | Software | Gratuito | Necessário |
+| Firebase | Backend e banco de dados | Serviço | Gratuito (inicial) | Pode gerar custos futuros |
+| GitHub | Versionamento | Serviço | Gratuito | Essencial |
+| Conta Google Play | Publicação do app | Serviço | ~125 | Taxa única |
+| Internet | Desenvolvimento | Serviço | 120/mês | 6 meses |
 
 ---
 
 #### 4.1.2 Materiais de Consumo
 
-| # | Especificação | Custo (R$) |
-|---|--------------|:----------:|
-| 1  | Firebase (plano inicial)      | 6 | 0,00     | 0,00     |
-| 2  | Hospedagem/Backend (opcional) | 6 | 50,00    | 300,00   |
-| 3  | Ferramentas de design (Figma) | 1 | 0,00     | 0,00     |
-| 4  | Energia elétrica (estimativa) | 6 | 80,00    | 480,00   |
-| 5  | Domínio (opcional)            | 1 | 50,00    | 50,00    |
-| 6  | Armazenamento em nuvem        | 6 | 20,00    | 120,00   |
-
+| # | Descrição | Período | Valor Unit. (R$) | Total (R$) |
+|---|-----------|--------|------------------|------------|
+| 1 | Energia elétrica | 6 meses | 80,00 | 480,00 |
+| 2 | Internet | 6 meses | 120,00 | 720,00 |
+| 3 | Armazenamento em nuvem | 6 meses | 20,00 | 120,00 |
+| 4 | Domínio (opcional) | 1 ano | 50,00 | 50,00 |
+| | | | **Total** | **R$ 1.370,00** |
 
 ---
 
 #### 4.1.3 Treinamento
 
-| # | Especificação | Custo (R$) |
-|---|--------------|:----------:|
-| 1  | Curso de Flutter (online)         | 3 | 100,00 | 300,00 |
-| 2  | Curso de Git e GitHub            | 3 | 50,00  | 150,00 |
-| 3  | Curso de UI/UX Design (Figma)    | 2 | 80,00  | 160,00 |
-| 4  | Curso de Firebase                | 3 | 70,00  | 210,00 |
-| 5  | Plataforma de cursos (mensal)    | 3 | 40,00  | 120,00 |
-| 6  | Workshops/palestras (online)     | 2 | 50,00  | 100,00 |
-| 7  | Materiais de estudo (ebooks)     | 3 | 30,00  | 90,00  |
+| # | Especificação | Qtd | Valor Unit. (R$) | Total (R$) |
+|---|--------------|-----|------------------|------------|
+| 1 | Curso de Flutter | 2 | 100,00 | 200,00 |
+| 2 | Curso de Git/GitHub | 2 | 50,00 | 100,00 |
+| 3 | Curso de UI/UX (Figma) | 1 | 80,00 | 80,00 |
+| 4 | Curso de Firebase | 1 | 70,00 | 70,00 |
+| | | | **Total** | **R$ 450,00** |
 
 ---
 
 #### 4.1.4 Serviço Técnico de Terceiros
 
-| # | Especificação | Custo (R$) |
-|---|--------------|:----------:|
-| 1  | Consultoria em UI/UX Design        | 1 | 300,00 | 300,00 |
-| 2  | Revisão técnica do código          | 1 | 400,00 | 400,00 |
-| 3  | Criação de identidade visual      | 1 | 250,00 | 250,00 |
-| 4  | Testes de usabilidade (feedback)  | 1 | 200,00 | 200,00 |
-| 5  | Configuração de publicação (loja) | 1 | 150,00 | 150,00 |
-| 6  | Hospedagem/Backend (configuração) | 1 | 200,00 | 200,00 |
-|    |                                   |   | **Total** | **R$ 1.500,00** |
-
+| # | Especificação | Qtd | Valor Unit. (R$) | Total (R$) |
+|---|--------------|-----|------------------|------------|
+| 1 | Consultoria em UI/UX | 1 | 300,00 | 300,00 |
+| 2 | Testes de usabilidade | 1 | 200,00 | 200,00 |
+| 3 | Revisão técnica | 1 | 300,00 | 300,00 |
+| 4 | Identidade visual (logo) | 1 | 200,00 | 200,00 |
+| | | | **Total** | **R$ 1.000,00** |
 
 ---
 
@@ -315,20 +238,20 @@ A equipe será composta por **até 5 alunos**, com papéis definidos para otimiz
 
 <div align="center">
 
-**⏱️ Duração do Projeto: 9 meses**
+**⏱️ Duração do Projeto: 6 meses**
 
 </div>
 
-| Categoria                          | Valor (R$)   |
-|------------------------------------|--------------|
-| Equipamentos e Programas           | 950,00       |
-| Treinamento da Equipe              | 1.130,00     |
-| Serviços Técnicos de Terceiros     | 1.500,00     |
-|                                    |              |
-| **Total Geral do Projeto**         | **R$ 3.580,00** |
+| Categoria | Valor (R$) |
+|----------|------------|
+| Equipamentos (estimado médio) | 4.000,00 |
+| Materiais de Consumo | 1.370,00 |
+| Treinamento | 450,00 |
+| Serviços Técnicos | 1.000,00 |
+| **Total Geral do Projeto** | **R$ 6.820,00** |
 
 ---
 
 <div align="center">
-<sub>Documento gerado a partir do modelo de Plano de Trabalho — versão 1.0</sub>
+<sub>Documento final alinhado ao modelo do professor e ao TP3</sub>
 </div>

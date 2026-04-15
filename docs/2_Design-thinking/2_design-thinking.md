@@ -45,8 +45,51 @@ A solução final será uma ferramenta prática, acessível e focada em melhorar
 
 ## 2. Exploração do Mercado
 
-**A) Análise SWOT**
+### A) Análise SWOT
+
+A análise SWOT é crucial para o desenvolvimento de software porque alinha os esforços de melhoria e resolução de problemas com os objetivos estratégicos do negócio, garantindo que os projetos de Seis Sigma e desenvolvimento estejam focados no que realmente importa. Ela serve como uma técnica prática para definir projetos de melhoria, acompanhar o alinhamento com metas empresariais e apreciar os resultados efetivos de forma mais visual e transparente do que a interpretação puramente estatística.
 
 <img width="960" height="768" alt="ANÁLISE" src="https://github.com/user-attachments/assets/4f5040a3-09b6-4f11-a0f3-ceed64304d21" />
 
+## ✅ Forças (Strengths)
+
+O que o projeto tem de diferencial hoje:
+
+- **Solução integrada** — combina Pomodoro e flashcards em um único app, eliminando a necessidade de alternar entre ferramentas
+- **UX centrada no estudante** — simplicidade como princípio de design, reduzindo a curva de aprendizado
+- **Problema real como âncora** — o foco em organização dos estudos garante propósito claro e validação de uso
+
+---
+
+## ⚠️ Fraquezas (Weaknesses)
+
+Pontos que exigem atenção e planejamento:
+
+- **Escopo limitado** — ausência de IA ou automações avançadas pode comprometer a percepção de valor a longo prazo
+- **Dependência comportamental** — a eficácia do app depende da disciplina do próprio usuário, fator fora do controle do produto
+- **Diferenciação tecnológica baixa** — o app ainda não apresenta vantagem técnica clara frente a players estabelecidos
+- **Maturidade da equipe em formação** — experiência técnica ainda em desenvolvimento, o que pode impactar velocidade e qualidade de entrega
+
+---
+
+## 🚀 Oportunidades (Opportunities)
+
+Tendências e contextos favoráveis a explorar:
+
+- **Mercado em crescimento** — demanda por ferramentas de produtividade e estudo segue em expansão
+- **Público-alvo amplo** — estudantes do ensino médio, técnico e universitário representam um mercado expressivo e acessível
+- **Ecossistema educacional** — possibilidade de integração com outras ferramentas (Google Classroom, Notion, Anki etc.)
+
+---
+
+## 🔴 Ameaças (Threats)
+
+Riscos externos que precisam ser monitorados:
+
+- **Concorrência consolidada** — apps como Anki, Forest e Quizlet já possuem base de usuários estabelecida e reconhecimento de marca
+- **Baixa retenção** — apps de produtividade enfrentam alto índice de abandono após as primeiras semanas de uso
+- **Substituição facilitada** — existência de alternativas gratuitas e bem avaliadas reduz o custo de troca para o usuário
+- **Mudança de preferências** — comportamento e hábitos de estudo dos usuários podem evoluir rapidamente
+
+---
 

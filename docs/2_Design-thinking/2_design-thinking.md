@@ -51,7 +51,7 @@ A análise SWOT é crucial para o desenvolvimento de software porque alinha os e
 
 <img width="960" height="768" alt="ANÁLISE" src="https://github.com/user-attachments/assets/4f5040a3-09b6-4f11-a0f3-ceed64304d21" />
 
-## ✅ Forças (Strengths)
+### ✅ Forças (Strengths)
 
 O que o projeto tem de diferencial hoje:
 
@@ -61,7 +61,7 @@ O que o projeto tem de diferencial hoje:
 
 ---
 
-## ⚠️ Fraquezas (Weaknesses)
+### ⚠️ Fraquezas (Weaknesses)
 
 Pontos que exigem atenção e planejamento:
 
@@ -72,7 +72,7 @@ Pontos que exigem atenção e planejamento:
 
 ---
 
-## 🚀 Oportunidades (Opportunities)
+### 🚀 Oportunidades (Opportunities)
 
 Tendências e contextos favoráveis a explorar:
 
@@ -82,7 +82,7 @@ Tendências e contextos favoráveis a explorar:
 
 ---
 
-## 🔴 Ameaças (Threats)
+### 🔴 Ameaças (Threats)
 
 Riscos externos que precisam ser monitorados:
 
@@ -92,4 +92,18 @@ Riscos externos que precisam ser monitorados:
 - **Mudança de preferências** — comportamento e hábitos de estudo dos usuários podem evoluir rapidamente
 
 ---
+
+## 3. Conhecendo os usuários (Personas)
+
+
+### Rafael Silva
+
+
+
+
+
+
+
+
+
 

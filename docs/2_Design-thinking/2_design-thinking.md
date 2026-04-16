@@ -120,8 +120,10 @@ Nesta seção, a equipe analisou o ambiente em que a solução será inserida, i
 <img width="1342" height="631" alt="image" src="https://github.com/user-attachments/assets/87f25f91-4ad0-4678-a9c6-4d69a9183cfe" />
 
 
+## Quadro Comparativo de Soluções Existentes
 
 
+<img width="990" height="322" alt="Captura de tela 2026-04-16 144213" src="https://github.com/user-attachments/assets/dc733686-a733-4621-9dc5-e6e5391919e0" />
 
 
 

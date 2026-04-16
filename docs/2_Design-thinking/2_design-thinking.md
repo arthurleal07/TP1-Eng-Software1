@@ -107,7 +107,7 @@ Nesta seção, a equipe analisou o ambiente em que a solução será inserida, i
 
 - **Florest** - – App de foco com gamificação que planta árvores virtuais enquanto o usuário estuda. Público-alvo: jovens e profissionais. Funcionalidade principal: timer de foco com recompensa visual.
     
-<img width="150" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54" src="https://github.com/user-attachments/assets/f3baf9f8-0354-4779-b40b-29ad686b49b4" />
+<img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54" src="https://github.com/user-attachments/assets/f3baf9f8-0354-4779-b40b-29ad686b49b4" />
 
 
 

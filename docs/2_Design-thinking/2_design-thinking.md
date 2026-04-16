@@ -105,7 +105,9 @@ Nesta seção, a equipe analisou o ambiente em que a solução será inserida, i
 
 ### Foram pesquisadas três soluções que abordam o mesmo problema ou se aproximam do Foca & Revisa.
 
-- **Florest** - – App de foco com gamificação que planta árvores virtuais enquanto o usuário estuda. Público-alvo: jovens e profissionais. Funcionalidade principal: timer de foco com recompensa visual.    
+- **Florest** - – App de foco com gamificação que planta árvores virtuais enquanto o usuário estuda. Público-alvo: jovens e profissionais. Funcionalidade principal: timer de foco com recompensa visual.
+    
+img width="739" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54" src="https://github.com/user-attachments/assets/019fe2b5-5ad0-437c-8524-8f83ccc072f0" />
 
 
 

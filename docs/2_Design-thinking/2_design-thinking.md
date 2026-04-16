@@ -99,7 +99,7 @@ Riscos externos que precisam ser monitorados:
 ### Rafael Silva
 
 
-##. Exploração do Mercado
+## Exploração do Mercado
 
 Nesta seção, a equipe analisou o ambiente em que a solução será inserida, identificando soluções existentes no mercado e comparando-as com o aplicativo Foca & Revisa, baseado na técnica Pomodoro com foco em revisão ativa de conteúdo.
 

@@ -113,6 +113,9 @@ Nesta seção, a equipe analisou o ambiente em que a solução será inserida, i
 
 <img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54 (1)" src="https://github.com/user-attachments/assets/865c83f8-4b20-425d-b3bf-79edbd5a0c1a" />  <img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54 (2)" src="https://github.com/user-attachments/assets/2f26fa8f-7a13-4704-b3c4-24b6225213f4" />
 
+- **Pomofocus** - Timer Pomodoro web sem necessidade de cadastro. Público-alvo: estudantes universitários. Funcionalidade principal: ciclos de foco e pausa diretamente no browser
+
+  <img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b2ab629a-a305-47ef-b3e5-e800bb39925c" />
 
 
 

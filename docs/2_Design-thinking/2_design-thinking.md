@@ -115,7 +115,8 @@ Nesta seção, a equipe analisou o ambiente em que a solução será inserida, i
 
 - **Pomofocus** - Timer Pomodoro web sem necessidade de cadastro. Público-alvo: estudantes universitários. Funcionalidade principal: ciclos de foco e pausa diretamente no browser
 
-  <img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b2ab629a-a305-47ef-b3e5-e800bb39925c" />
+<img width="1342" height="631" alt="image" src="https://github.com/user-attachments/assets/87f25f91-4ad0-4678-a9c6-4d69a9183cfe" />
+
 
 
 

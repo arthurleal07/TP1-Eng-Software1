@@ -99,6 +99,15 @@ Riscos externos que precisam ser monitorados:
 ### Rafael Silva
 
 
+##. Exploração do Mercado
+
+Nesta seção, a equipe analisou o ambiente em que a solução será inserida, identificando soluções existentes no mercado e comparando-as com o aplicativo Foca & Revisa, baseado na técnica Pomodoro com foco em revisão ativa de conteúdo.
+
+### Foram pesquisadas três soluções que abordam o mesmo problema ou se aproximam do Foca & Revisa.
+
+- **Florest** - – App de foco com gamificação que planta árvores virtuais enquanto o usuário estuda. Público-alvo: jovens e profissionais. Funcionalidade principal: timer de foco com recompensa visual.    
+
+
 
 
 

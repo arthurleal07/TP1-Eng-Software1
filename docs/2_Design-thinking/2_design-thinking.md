@@ -106,12 +106,14 @@ Nesta seção, a equipe analisou o ambiente em que a solução será inserida, i
 ### Foram pesquisadas três soluções que abordam o mesmo problema ou se aproximam do Foca & Revisa.
 
 - **Florest** -  App de foco com gamificação que planta árvores virtuais enquanto o usuário estuda. Público-alvo: jovens e profissionais. Funcionalidade principal: timer de foco com recompensa visual.
-    
+  
 <img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54" src="https://github.com/user-attachments/assets/f3baf9f8-0354-4779-b40b-29ad686b49b4" />
+
 
 - **Focus To-Do** - Integra timer Pomodoro com lista de tarefas e relatórios de produtividade. Público-alvo: estudantes e profissionais. Funcionalidade principal: gerenciamento de tarefas + foco.
 
 <img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54 (1)" src="https://github.com/user-attachments/assets/865c83f8-4b20-425d-b3bf-79edbd5a0c1a" />  <img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54 (2)" src="https://github.com/user-attachments/assets/2f26fa8f-7a13-4704-b3c4-24b6225213f4" />
+
 
 - **Pomofocus** - Timer Pomodoro web sem necessidade de cadastro. Público-alvo: estudantes universitários. Funcionalidade principal: ciclos de foco e pausa diretamente no browser
 

@@ -4,7 +4,7 @@
 
 **O Golden Circle é uma técnica desenvolvida por Simon Sinek que ajuda a alinhar propósito e proposta de valor.**
 
-<img src="https://github.com/user-attachments/assets/5f51ad0c-d5ef-48f5-ade6-8a38816cb55c" width="300">
+<img src="https://github.com/user-attachments/assets/5f51ad0c-d5ef-48f5-ade6-8a38816cb55c" width="500">
 
 # Golden Circle do Projeto
 
@@ -97,9 +97,22 @@ Riscos externos que precisam ser monitorados:
 
 
 ### Rafael Silva
+### Idade: 24 anos
+
+<img width="704" height="920" alt="WhatsApp Image 2026-04-02 at 13 55 08" src="https://github.com/user-attachments/assets/724b4463-b8ed-4116-931e-cfff72f8e446" />
+
+### Beatriz Ferreira
+### Idade: 20 anos
+
+<img width="704" height="920" alt="WhatsApp Image 2026-04-02 at 13 55 09 (1)" src="https://github.com/user-attachments/assets/dd0b8d75-a829-4125-8fd6-92aff8a013d7" />
+
+### Lucas Ribeiro
+### Idade 18 anos
+
+<img width="704" height="920" alt="WhatsApp Image 2026-04-02 at 13 55 09" src="https://github.com/user-attachments/assets/389926c4-92b8-4760-abd5-f5345de873ec" />
 
 
-## Exploração do Mercado
+## 4. Exploração do Mercado
 
 Nesta seção, a equipe analisou o ambiente em que a solução será inserida, identificando soluções existentes no mercado e comparando-as com o aplicativo Foca & Revisa, baseado na técnica Pomodoro com foco em revisão ativa de conteúdo.
 
@@ -107,18 +120,20 @@ Nesta seção, a equipe analisou o ambiente em que a solução será inserida, i
 
 - **Florest** -  App de foco com gamificação que planta árvores virtuais enquanto o usuário estuda. Público-alvo: jovens e profissionais. Funcionalidade principal: timer de foco com recompensa visual.
   
-<img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54" src="https://github.com/user-attachments/assets/f3baf9f8-0354-4779-b40b-29ad686b49b4" />
+<img width="520" height="900" alt="WhatsApp Image 2026-04-16 at 11 54 54" src="https://github.com/user-attachments/assets/f3baf9f8-0354-4779-b40b-29ad686b49b4" />
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Focus To-Do** - Integra timer Pomodoro com lista de tarefas e relatórios de produtividade. Público-alvo: estudantes e profissionais. Funcionalidade principal: gerenciamento de tarefas + foco.
 
-<img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54 (1)" src="https://github.com/user-attachments/assets/865c83f8-4b20-425d-b3bf-79edbd5a0c1a" />  <img width="200" height="1600" alt="WhatsApp Image 2026-04-16 at 11 54 54 (2)" src="https://github.com/user-attachments/assets/2f26fa8f-7a13-4704-b3c4-24b6225213f4" />
+<img width="500" height="900" alt="WhatsApp Image 2026-04-16 at 11 54 54 (1)" src="https://github.com/user-attachments/assets/865c83f8-4b20-425d-b3bf-79edbd5a0c1a" />  <img width="500" height="900" alt="WhatsApp Image 2026-04-16 at 11 54 54 (2)" src="https://github.com/user-attachments/assets/2f26fa8f-7a13-4704-b3c4-24b6225213f4" />
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Pomofocus** - Timer Pomodoro web sem necessidade de cadastro. Público-alvo: estudantes universitários. Funcionalidade principal: ciclos de foco e pausa diretamente no browser
 
 <img width="1342" height="631" alt="image" src="https://github.com/user-attachments/assets/87f25f91-4ad0-4678-a9c6-4d69a9183cfe" />
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Quadro Comparativo de Soluções Existentes
 

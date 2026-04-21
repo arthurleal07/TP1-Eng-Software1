@@ -111,8 +111,79 @@ Riscos externos que precisam ser monitorados:
 
 <img width="704" height="920" alt="WhatsApp Image 2026-04-02 at 13 55 09" src="https://github.com/user-attachments/assets/389926c4-92b8-4760-abd5-f5345de873ec" />
 
+---
 
-## 4. Exploração do Mercado
+## 4. Especificação de Requisitos
+
+### US08 – Interface Simples
+
+**👤 Persona:** Beatriz, Lucas  
+**🔥 Prioridade:** Alta  
+
+#### 📝 Descrição
+Enquanto estudante, desejo uma interface simples, para evitar distrações.
+
+#### ✅ Critérios de Aceitação
+- O sistema deve apresentar layout limpo  
+- Deve haver poucos elementos na tela  
+
+#### 📏 Regras de Negócio
+- Evitar excesso de cores e animações  
+
+#### 📊 Complexidade
+Média  
+
+#### 🎯 Story Points
+5  
+
+---
+
+### US09 – Acessibilidade
+
+**👤 Persona:** Beatriz  
+**🔥 Prioridade:** Alta  
+
+#### 📝 Descrição
+Enquanto estudante, desejo ajustar fontes e contraste, para melhorar a leitura.
+
+#### ✅ Critérios de Aceitação
+- O sistema deve permitir alterar tamanho da fonte  
+- O sistema deve oferecer modo de alto contraste  
+
+#### 📏 Regras de Negócio
+- Alterações devem ser aplicadas em todo o app  
+
+#### 📊 Complexidade
+Média  
+
+#### 🎯 Story Points
+5  
+
+---
+
+### US10 – Sessão por Matéria
+
+**👤 Persona:** Rafael  
+**🔥 Prioridade:** Alta  
+
+#### 📝 Descrição
+Enquanto estudante, desejo vincular sessões a matérias, para analisar meu tempo.
+
+#### ✅ Critérios de Aceitação
+- O sistema deve permitir selecionar matéria antes da sessão  
+- O sistema deve registrar dados por matéria  
+
+#### 📏 Regras de Negócio
+- Sessão deve obrigatoriamente estar vinculada a uma matéria  
+
+#### 📊 Complexidade
+Média  
+
+#### 🎯 Story Points
+
+---
+
+## 5. Exploração do Mercado
 
 Nesta seção, a equipe analisou o ambiente em que a solução será inserida, identificando soluções existentes no mercado e comparando-as com o aplicativo Foca & Revisa, baseado na técnica Pomodoro com foco em revisão ativa de conteúdo.
 

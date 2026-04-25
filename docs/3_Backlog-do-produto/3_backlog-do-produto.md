@@ -1,17 +1,11 @@
-## US11 – Modo Silencioso
+# Backlog do Produto
 
-**👤 Persona:** Lucas, Beatriz  
-**🔥 Prioridade:** Média  
+O Backlog do Produto é uma lista priorizada de
+funcionalidades desejadas para o sistema, escritas na
+forma de histórias do usuário. Ele representa tudo o que
+pode ser necessário no produto, guiando o desenvolvimento
+incremental.
 
-### 📝 Descrição
-Enquanto estudante, desejo usar o app em modo silencioso, para evitar interrupções.
+Clique no Link abaixo para acessar o nosso backlog do produto:
 
-### ✅ Critérios de Aceitação
-- O sistema deve permitir desativar sons  
-- Alertas devem ser apenas visuais/vibração  
-
-### 📊 Complexidade
-Baixa  
-
-### 🎯 Story Points
-3
+https://github.com/users/arthurleal07/projects/2
